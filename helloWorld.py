@@ -1,3 +1,4 @@
+
 def sum(a, b, c=0, d=None, e=0):
     print(f"a: {a}, b: {b}, c: {c}, d: {d}, e: {e}")
     total = a + b + c + e
@@ -14,3 +15,8 @@ print(sum(1, 2))
 print(sum(1, 2, 3))
 print(sum(1, 2, 3, 4))
 print(sum(1, 2, 3, 4, 5))
+
+
+
+#hello i am printing Hello world
+print("hello world");
